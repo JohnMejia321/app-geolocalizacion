@@ -1,6 +1,7 @@
 package com.msgeolocalizacion.service;
 
 import com.msgeolocalizacion.model.Office;
+import com.msgeolocalizacion.repository.AddressRepository;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -16,6 +17,10 @@ public class AddressService {
 
     @Autowired
     private RestTemplate restTemplate;
+
+
+    @Autowired
+    private AddressRepository addressRepository;
 
     /*public String getCoordinates(String barrio, String ciudad, String estado, String pais) {
         String url = "https://nominatim.openstreetmap.org/search?q=" + barrio + ", " + ciudad + ", " + estado + ", " + pais + "&format=json&addressdetails=1&limit=1";
@@ -51,11 +56,13 @@ public class AddressService {
         double userLon = userCoordinatesObj.getDouble("lon");
 
         // Lista de oficinas con sus coordenadas
-        ArrayList<Office> officesList = new ArrayList<>();
+        /*ArrayList<Office> officesList = new ArrayList<>();
         officesList.add(new Office(9.330699, -82.250623, "Agencia de Bocas (Isla), Bocas del Toro, Panama", "Bocas del Toro", "Agencia de Bocas (Isla)"));
         officesList.add(new Office(9.440881, -82.516792, "Agencia de Bocas del Toro, Changuinola, Bocas del Toro, Panama", "Bocas del Toro", "Agencia de Changuinola"));
         officesList.add(new Office(8.781113, -82.431372, "Agencia Boquete, Chiriquí, Panama", "Chiriquí", "Agencia Boquete"));
-        officesList.add(new Office(6.2006197, -75.5636832, "Agencia poblado, medellin, colombia", "poblado", "Agencia poblado"));
+        officesList.add(new Office(6.2006197, -75.5636832, "Agencia poblado, medellin, colombia", "poblado", "Agencia poblado"));*/
+
+        ArrayList<Office> officesList = addressRepository.getAllOffices();
 
         // Inicializar variables para almacenar la oficina más cercana y la distancia más corta
         Office nearestOffice = null;
