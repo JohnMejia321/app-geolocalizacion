@@ -1,0 +1,270 @@
+[
+    {
+        "lat": 9.330699,
+        "lon": -82.250623,
+        "display_name": "Agencia de Bocas (Isla), Bocas del Toro, Panama",
+        "provincia": "Bocas del Toro",
+        "unidad_ejecutora": "Agencia de Bocas (Isla)"
+    },
+    {
+        "lat": 9.440881,
+        "lon": -82.516792,
+        "display_name": "Agencia de Bocas del Toro, Changuinola, Bocas del Toro, Panama",
+        "provincia": "Bocas del Toro",
+        "unidad_ejecutora": "Agencia de Changuinola",
+        "tipo_ue": "Agencia",
+        "telefono": "758-8501"
+    },
+    {
+        "lat": 8.781113,
+        "lon": -82.431372,
+        "display_name": "Agencia Boquete, Chiriquí, Panama",
+        "provincia": "Chiriquí",
+        "unidad_ejecutora": "Agencia Boquete",
+        "tipo_ue": "Agencia",
+        "telefono": "720-1032"
+    },
+    {
+        "lat": 8.598976,
+        "lon": -82.618582,
+        "display_name": "Agencia Bugaba, Chiriquí, Panama",
+        "provincia": "Chiriquí",
+        "unidad_ejecutora": "Agencia Bugaba",
+        "tipo_ue": "Agencia",
+        "telefono": "770-6428"
+    },
+    {
+        "lat": 8.428186,
+        "lon": -82.430847,
+        "display_name": "Agencia David, Chiriquí, Panama",
+        "provincia": "Chiriquí",
+        "unidad_ejecutora": "Agencia David",
+        "tipo_ue": "Agencia",
+        "telefono": "774-4048"
+    },
+    {
+        "lat": 8.280618,
+        "lon": -82.870196,
+        "display_name": "Agencia Puerto Armuelles, Chiriquí, Panama",
+        "provincia": "Chiriquí",
+        "unidad_ejecutora": "Agencia Puerto Armuelles",
+        "tipo_ue": "Agencia",
+        "telefono": "770-7196"
+    },
+    {
+        "lat": 8.784177,
+        "lon": -82.636779,
+        "display_name": "Agencia Volcán, Chiriquí, Panama",
+        "provincia": "Chiriquí",
+        "unidad_ejecutora": "Agencia Volcán",
+        "tipo_ue": "Agencia",
+        "telefono": "771-5537"
+    },
+    {
+        "lat": 8.096756,
+        "lon": -80.965862,
+        "display_name": "Agencia Santiago, Veraguas, Panama",
+        "provincia": "Veraguas",
+        "unidad_ejecutora": "Agencia Santiago",
+        "tipo_ue": "Agencia",
+        "telefono": "998-4279"
+    },
+    {
+        "lat": 8.020449,
+        "lon": -81.183614,
+        "display_name": "Agencia Soná, Veraguas, Panama",
+        "provincia": "Veraguas",
+        "unidad_ejecutora": "Agencia Soná",
+        "tipo_ue": "Agencia",
+        "telefono": "998-8253"
+    },
+    {
+        "lat": 7.962812,
+        "lon": -80.433695,
+        "display_name": "Agencia de Chitré, Herrera, Panama",
+        "provincia": "Herrera",
+        "unidad_ejecutora": "Agencia de Chitré",
+        "tipo_ue": "Agencia",
+        "telefono": "996-0266"
+    },
+    {
+        "lat": 7.767208,
+        "lon": -80.301191,
+        "display_name": "Agencia de Las Tablas, Los Santos, Panama",
+        "provincia": "Los Santos",
+        "unidad_ejecutora": "Agencia de Las Tablas",
+        "tipo_ue": "Agencia",
+        "telefono": "994-8633"
+    },
+    {
+        "lat": 7.934536,
+        "lon": -80.426427,
+        "display_name": "Agencia de Los Santos, Los Santos, Panama",
+        "provincia": "Los Santos",
+        "unidad_ejecutora": "Agencia de Los Santos",
+        "tipo_ue": "Agencia",
+        "telefono": "966-8809"
+    },
+    {
+        "lat": 9.360671,
+        "lon": -79.900744,
+        "display_name": "Agencia de Colón, Colón, Panama",
+        "provincia": "Colón",
+        "unidad_ejecutora": "Agencia de Colón",
+        "tipo_ue": "Agencia",
+        "telefono": "475-6001"
+    },
+    {
+        "lat": 8.250109,
+        "lon": -80.554894,
+        "display_name": "Agencia de Aguadulce, Coclé, Panama",
+        "provincia": "Coclé",
+        "unidad_ejecutora": "Agencia de Aguadulce",
+        "tipo_ue": "Agencia",
+        "telefono": "997-9691"
+    },
+    {
+        "lat": 8.336562,
+        "lon": -80.515964,
+        "display_name": "Agencia de Natá, Coclé, Panama",
+        "provincia": "Coclé",
+        "unidad_ejecutora": "Agencia de Natá",
+        "tipo_ue": "Agencia",
+        "telefono": "993-5462"
+    },
+    {
+        "lat": 8.521371,
+        "lon": -80.362053,
+        "display_name": "Agencia de Penonomé, Coclé, Panama",
+        "provincia": "Coclé",
+        "unidad_ejecutora": "Agencia de Penonomé",
+        "tipo_ue": "Agencia",
+        "telefono": "997-9691"
+    },
+    {
+        "lat": 8.982237,
+        "lon": -79.525365,
+        "display_name": "Edificio Bolívar, Panamá, Panama",
+        "provincia": "Panamá Metro",
+        "unidad_ejecutora": "Oficina Administrativa",
+        "tipo_ue": "Oficina",
+        "telefono": "366-2000"
+    },
+    {
+        "lat": 8.975254,
+        "lon": -79.520201,
+        "display_name": "Agencia de Parque Lefevre, Panamá Metro, Panama",
+        "provincia": "Panamá Metro",
+        "unidad_ejecutora": "Agencia de Parque Lefevre",
+        "tipo_ue": "Agencia",
+        "telefono": "503-4023"
+    },
+    {
+        "lat": 8.982874,
+        "lon": -79.521871,
+        "display_name": "Agencia de San Francisco, Panamá Metro, Panama",
+        "provincia": "Panamá Metro",
+        "unidad_ejecutora": "Agencia de San Francisco",
+        "tipo_ue": "Agencia",
+        "telefono": "503-4046"
+    },
+    {
+        "lat": 9.005246,
+        "lon": -79.457839,
+        "display_name": "Agencia de Juan Díaz, Panamá Metro, Panama",
+        "provincia": "Panamá Metro",
+        "unidad_ejecutora": "Agencia de Juan Díaz",
+        "tipo_ue": "Agencia",
+        "telefono": "503-5223"
+    },
+    {
+        "lat": 9.020509,
+        "lon": -79.495319,
+        "display_name": "Agencia de El Dorado, Panamá Metro, Panama",
+        "provincia": "Panamá Metro",
+        "unidad_ejecutora": "Agencia de El Dorado",
+        "tipo_ue": "Agencia",
+        "telefono": "503-4005"
+    },
+    {
+        "lat": 9.050779,
+        "lon": -79.483528,
+        "display_name": "Agencia de San Miguelito, Panamá Metro, Panama",
+        "provincia": "Panamá Metro",
+        "unidad_ejecutora": "Agencia de San Miguelito",
+        "tipo_ue": "Agencia",
+        "telefono": "503-4052"
+    },
+    {
+        "lat": 9.004044,
+        "lon": -79.503949,
+        "display_name": "Agencia de Vía España, Panamá Metro, Panama",
+        "provincia": "Panamá Metro",
+        "unidad_ejecutora": "Agencia de Vía España",
+        "tipo_ue": "Agencia",
+        "telefono": "503-4037"
+    },
+    {
+        "lat": 8.873711,
+        "lon": -79.782745,
+        "display_name": "Agencia de La Chorrera, Panamá Oeste, Panama",
+        "provincia": "Panamá Oeste",
+        "unidad_ejecutora": "Agencia de La Chorrera",
+        "tipo_ue": "Agencia",
+        "telefono": "253-4419"
+    },
+    {
+        "lat": 8.933667,
+        "lon": -79.651446,
+        "display_name": "Agencia de Arraiján, Panamá Oeste, Panama",
+        "provincia": "Panamá Oeste",
+        "unidad_ejecutora": "Agencia de Arraiján",
+        "tipo_ue": "Agencia",
+        "telefono": "251-9474"
+    },
+    {
+        "lat": 8.516041,
+        "lon": -79.964926,
+        "display_name": "Agencia de San Carlos, Panamá Oeste, Panama",
+        "provincia": "Panamá Oeste",
+        "unidad_ejecutora": "Agencia de San Carlos",
+        "tipo_ue": "Agencia",
+        "telefono": "240-8020"
+    },
+    {
+        "lat": 8.917211,
+        "lon": -79.613773,
+        "display_name": "Agencia de Panamá Pacífico, Panamá Oeste, Panama",
+        "provincia": "Panamá Oeste",
+        "unidad_ejecutora": "Agencia de Panamá Pacífico",
+        "tipo_ue": "Agencia",
+        "telefono": "504-2539"
+    },
+    {
+        "lat": 9.168329,
+        "lon": -79.097291,
+        "display_name": "Agencia de Chepo, Panamá Este, Panama",
+        "provincia": "Panamá Este",
+        "unidad_ejecutora": "Agencia de Chepo",
+        "tipo_ue": "Agencia",
+        "telefono": "720-1032"
+    },
+    {
+        "lat": 9.096772,
+        "lon": -79.165221,
+        "display_name": "Agencia de 24 de Diciembre, Panamá Este, Panama",
+        "provincia": "Panamá Este",
+        "unidad_ejecutora": "Agencia de 24 de Diciembre",
+        "tipo_ue": "Agencia",
+        "telefono": "295-5826"
+    },
+    {
+        "lat": 7.978172,
+        "lon": -77.845257,
+        "display_name": "Sub Agencia de Darién, Darién, Panama",
+        "provincia": "Darién",
+        "unidad_ejecutora": "Sub Agencia de Darién",
+        "tipo_ue": "Agencia",
+        "telefono": "299-6413"
+    }
+]
